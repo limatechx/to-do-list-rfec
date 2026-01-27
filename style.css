@@ -10,14 +10,17 @@
     cursor: pointer;
     transition: background 0.2s, color 0.2s;
 }
+
 .filtro-btn:hover {
     background: #b3d7ff;
     color: #0056b3;
 }
+
 .filtro-ativo {
     background: #007bff;
     color: #fff;
 }
+
 #task-list-ul li.finalizada {
     background: #d4edda;
     border-color: #28a745;
